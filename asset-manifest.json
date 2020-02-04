@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio/static/css/main.27688927.chunk.css",
+    "main.js": "/personal-portfolio/static/js/main.16d5ce20.chunk.js",
+    "main.js.map": "/personal-portfolio/static/js/main.16d5ce20.chunk.js.map",
+    "runtime~main.js": "/personal-portfolio/static/js/runtime~main.8fd806ec.js",
+    "runtime~main.js.map": "/personal-portfolio/static/js/runtime~main.8fd806ec.js.map",
+    "static/js/2.9b8f62ab.chunk.js": "/personal-portfolio/static/js/2.9b8f62ab.chunk.js",
+    "static/js/2.9b8f62ab.chunk.js.map": "/personal-portfolio/static/js/2.9b8f62ab.chunk.js.map",
+    "index.html": "/personal-portfolio/index.html",
+    "precache-manifest.def21e874aedee8e8db21ddff8b0b30c.js": "/personal-portfolio/precache-manifest.def21e874aedee8e8db21ddff8b0b30c.js",
+    "service-worker.js": "/personal-portfolio/service-worker.js",
+    "static/css/main.27688927.chunk.css.map": "/personal-portfolio/static/css/main.27688927.chunk.css.map",
+    "static/media/avatar.jpg": "/personal-portfolio/static/media/avatar.7257a1a9.jpg",
+    "static/media/bg1.jpg": "/personal-portfolio/static/media/bg1.6b1983a2.jpg",
+    "static/media/bg11.jpg": "/personal-portfolio/static/media/bg11.e643a6cf.jpg",
+    "static/media/bg3.jpg": "/personal-portfolio/static/media/bg3.f807b37b.jpg",
+    "static/media/bg4.jpg": "/personal-portfolio/static/media/bg4.4bff5d45.jpg",
+    "static/media/bg5.jpg": "/personal-portfolio/static/media/bg5.056eb058.jpg",
+    "static/media/bg6.jpg": "/personal-portfolio/static/media/bg6.d7d1aaf7.jpg",
+    "static/media/bg7.jpg": "/personal-portfolio/static/media/bg7.607a4a36.jpg",
+    "static/media/bg8.jpg": "/personal-portfolio/static/media/bg8.6737ce3b.jpg",
+    "static/media/eva.jpg": "/personal-portfolio/static/media/eva.089c4f4e.jpg",
+    "static/media/foto-personal-baja-res.png": "/personal-portfolio/static/media/foto-personal-baja-res.4a8ab919.png",
+    "static/media/header.jpg": "/personal-portfolio/static/media/header.ffcc99c4.jpg",
+    "static/media/julie.jpg": "/personal-portfolio/static/media/julie.138381e5.jpg",
+    "static/media/landing.jpg": "/personal-portfolio/static/media/landing.f8fba454.jpg",
+    "static/media/login.jpg": "/personal-portfolio/static/media/login.b2101951.jpg",
+    "static/media/now-ui-kit.scss": "/personal-portfolio/static/media/nucleo-outline.8ebec31f.woff2",
+    "static/media/profile.jpg": "/personal-portfolio/static/media/profile.225653f9.jpg",
+    "static/media/ryan.jpg": "/personal-portfolio/static/media/ryan.f217f346.jpg"
+  }
+}
